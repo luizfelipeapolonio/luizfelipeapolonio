@@ -7,7 +7,7 @@
 
 ## Tecnologias que uso no meu dia
 
-<div style="display: inline_block"><br/>
+<div style="display: flex; gap: 8px;"><br/>
 	<img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 	<img align="center" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 	<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
