@@ -20,6 +20,6 @@
 
 ## Contato:
 <div style="display: inline_block">
-	<a href="mailto:luizfelipe0527@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 	<a href="https://www.linkedin.com/in/luiz-felipe-salgado-31a969273"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+	<a href="mailto:luizfelipe0527@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
