@@ -4,7 +4,7 @@
 
 </div>
 
-## Olá! Eu sou o Luiz Felipe! 👋
+## 👋 Olá! Eu sou o Luiz Felipe!
 
 Sou Técnico em Informática e Desenvolvedor de Software formado pela Etec da Zona Leste, com foco no desenvolvimento de aplicações back-end e grande interesse por arquitetura e engenharia de software.
 
